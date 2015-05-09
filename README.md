@@ -1,5 +1,5 @@
 To use this blog system
-  1) Copy the files extracted from ZIP file into your own .
+  1) Copy the files extracted from ZIP file.
   2) Create a new database.
   3) Import database.sql into your database.
   4) Edit database configuration
