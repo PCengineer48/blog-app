@@ -3,7 +3,7 @@ To use this blog system
   2) Create a new database.
   3) Import database.sql into your database.
   4) Edit database configuration
-  6) Default admin login information:
+  5) Default admin login information:
      E-mail: sedatcan_92@hotmail.com
      Parola: admin
 
